@@ -1,0 +1,11 @@
+{
+    "name": "nayeri/mensajes",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Naryi\\Mensajes\\": "app/"
+        }
+    },
+    "minimum-stability": "beta",
+    "require": {}
+}
